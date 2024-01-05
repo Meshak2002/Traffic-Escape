@@ -1,0 +1,11 @@
+Model Information:
+* title:	Concrete Bench Low Poly
+* source:	https://sketchfab.com/3d-models/concrete-bench-low-poly-516f2900f2ff4cf9a8ad980a28384010
+* author:	abass20 (https://sketchfab.com/abass20)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Concrete Bench Low Poly" (https://sketchfab.com/3d-models/concrete-bench-low-poly-516f2900f2ff4cf9a8ad980a28384010) by abass20 (https://sketchfab.com/abass20) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

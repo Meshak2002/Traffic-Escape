@@ -1,0 +1,11 @@
+Model Information:
+* title:	Christmas doll
+* source:	https://sketchfab.com/3d-models/christmas-doll-893bc5e9ed9a4e94a5ed729e1f29d120
+* author:	Cebba (https://sketchfab.com/Cebba)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Christmas doll" (https://sketchfab.com/3d-models/christmas-doll-893bc5e9ed9a4e94a5ed729e1f29d120) by Cebba (https://sketchfab.com/Cebba) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

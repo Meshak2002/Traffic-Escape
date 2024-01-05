@@ -1,0 +1,11 @@
+Model Information:
+* title:	Basic Low Poly Rocky Desert
+* source:	https://sketchfab.com/3d-models/basic-low-poly-rocky-desert-62b6c98e777e4e698f005086b044e6fd
+* author:	xconcepts (https://sketchfab.com/xconcepts)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Basic Low Poly Rocky Desert" (https://sketchfab.com/3d-models/basic-low-poly-rocky-desert-62b6c98e777e4e698f005086b044e6fd) by xconcepts (https://sketchfab.com/xconcepts) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

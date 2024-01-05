@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dumpster in a Low-Poly Style
+* source:	https://sketchfab.com/3d-models/dumpster-in-a-low-poly-style-72727ad6bbba4161afd866218c44a4b9
+* author:	xl1ne_ (https://sketchfab.com/xl1ne_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dumpster in a Low-Poly Style" (https://sketchfab.com/3d-models/dumpster-in-a-low-poly-style-72727ad6bbba4161afd866218c44a4b9) by xl1ne_ (https://sketchfab.com/xl1ne_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

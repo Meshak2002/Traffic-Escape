@@ -1,0 +1,11 @@
+Model Information:
+* title:	Falling Tree
+* source:	https://sketchfab.com/3d-models/falling-tree-3b50f61d8cc341b08d56c38db8e9c9ce
+* author:	kirbinator505_ (https://sketchfab.com/kirbinator505_)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Falling Tree" (https://sketchfab.com/3d-models/falling-tree-3b50f61d8cc341b08d56c38db8e9c9ce) by kirbinator505_ (https://sketchfab.com/kirbinator505_) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
